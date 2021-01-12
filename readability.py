@@ -1,7 +1,5 @@
-import cs50
-
 while True:
-    str = cs50.get_string('Text: ')
+    str = input('Text: ')
 
     index = 0
     i = 0
