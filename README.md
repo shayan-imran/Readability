@@ -4,5 +4,6 @@ when given a length of reading whether it be a single sentence, paragraph or nov
 
 Give it a try for yourself!
 =================================================================================================
-readability1.herokuapp.com
+https://www.pythonanywhere.com/user/shayan721/shares/08ba45f8e98f4443880ff1d6532aa5c6/
 =================================================================================================
+*quick registration required to access free server
