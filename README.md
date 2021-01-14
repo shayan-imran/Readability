@@ -6,5 +6,4 @@ Give it a try for yourself!
 =================================================================================================
 Simply run readability.exe
 =================================================================================================
-![alt text](https://github.com/[shayan-imran]/[Readability]/blob/[main]/SCREENSHOT_.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/shayan-imran/Readability/main/SCREENSHOT_.png)
