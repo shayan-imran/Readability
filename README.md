@@ -4,6 +4,6 @@ when given a length of reading whether it be a single sentence, paragraph or nov
 
 Give it a try for yourself!
 =================================================================================================
-https://www.pythonanywhere.com/user/shayan721/shares/08ba45f8e98f4443880ff1d6532aa5c6/
+Simply run readability.exe
 =================================================================================================
-*quick registration required to access free server
+![alt text](https://github.com/[shayan-imran]/[Readability]/blob/[main]/SCREENSHOT_.png?raw=true)
